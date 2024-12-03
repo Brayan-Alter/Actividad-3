@@ -1,0 +1,53 @@
+header{
+    background-color: rgb(236, 236, 97);
+    border-radius: 10px;
+    text-align: center;
+    padding: 1rem;
+    grid-area: "header";
+}
+body{
+    min-height: 100vh;
+    background-color:blue  ;
+}
+nav{
+    text-align: center;
+    background-color: rgb(110, 110, 253);
+    text-align: center;
+    border-radius: 10px;
+    padding: 1rem;
+    grid-area: menu;
+}
+main{
+    text-align: center;
+    background-color: rgb(174, 90, 252);
+    text-align: center;
+    padding: 1rem;
+    grid-area:submenu ;
+    border-radius: 10px;
+}
+aside{
+    text-align: center;
+    background-color: coral;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1rem;
+    grid-area: aside;
+}
+footer{
+    text-align: center;
+    background-color: aquamarine;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1rem;
+    grid-area: pie de pagina;
+}
+
+.page
+
+
+
+
+
+
+    
+    
